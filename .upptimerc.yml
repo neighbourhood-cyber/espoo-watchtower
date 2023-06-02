@@ -4,7 +4,7 @@ user-agent: keywordnew
 
 sites:
   - name: Helsinki Region Environmental Services HSY
-    url: https://liittymisportaali.asiointi.hsy.fi/kirjaudu
+    url: https://www.hsy.fi/en/water-and-sewers/water-supply-cuts-and-disturbances-in-water-supply/
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/water.png
   - name: Helen Oy
