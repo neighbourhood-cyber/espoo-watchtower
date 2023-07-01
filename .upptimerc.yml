@@ -35,15 +35,13 @@ sites:
 
 status-website:
   baseUrl: /espoo-watchtower
-  name: 'Neighbourhood Cyber'
+  name: ' '
   logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
   favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
   introTitle: 'Espoo 🇫🇮 watchtower'
-  introMessage: 'check if critical infrastructure may be down, or use GitHub ↗️ to "Watch" and get notified'
+  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://keywordnew.github.io/espoo-watchtower/) to "Watch" and get notified'
   navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Neighbourhoods
+    - title: 'Neighbourhoods ↗'
       href: https://github.com/$OWNER?tab=repositories&q=watchtower
       
 i18n:
