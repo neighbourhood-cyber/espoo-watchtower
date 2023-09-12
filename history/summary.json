@@ -5,15 +5,15 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "helsinki-region-environmental-services-hsy",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.14%",
     "time": 730,
     "timeDay": 1273,
     "timeWeek": 741,
-    "timeMonth": 682,
+    "timeMonth": 678,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2023-06-02": 606,
@@ -35,7 +35,7 @@
     "time": 574,
     "timeDay": 1079,
     "timeWeek": 689,
-    "timeMonth": 600,
+    "timeMonth": 579,
     "timeYear": 574,
     "dailyMinutesDown": {}
   },
@@ -53,7 +53,7 @@
     "time": 1521,
     "timeDay": 1236,
     "timeWeek": 1672,
-    "timeMonth": 1519,
+    "timeMonth": 1515,
     "timeYear": 1521,
     "dailyMinutesDown": {
       "2023-06-20": 152
@@ -73,7 +73,7 @@
     "time": 2584,
     "timeDay": 2268,
     "timeWeek": 2528,
-    "timeMonth": 2521,
+    "timeMonth": 2506,
     "timeYear": 2584,
     "dailyMinutesDown": {}
   },
@@ -91,7 +91,7 @@
     "time": 1099,
     "timeDay": 1109,
     "timeWeek": 1074,
-    "timeMonth": 1116,
+    "timeMonth": 1083,
     "timeYear": 1099,
     "dailyMinutesDown": {}
   },
@@ -101,15 +101,15 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "68.61%",
+    "uptime": "68.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "58.15%",
-    "uptimeYear": "68.61%",
+    "uptimeYear": "68.84%",
     "time": 1225,
     "timeDay": 1225,
     "timeWeek": 1009,
-    "timeMonth": 1533,
+    "timeMonth": 1571,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2023-08-28": 488,
@@ -156,17 +156,19 @@
     "url": "https://www.op.fi/home-page",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "op-financial-group",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1245,
     "timeDay": 1218,
     "timeWeek": 1291,
-    "timeMonth": 1202,
+    "timeMonth": 1198,
     "timeYear": 1245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   }
 ]
