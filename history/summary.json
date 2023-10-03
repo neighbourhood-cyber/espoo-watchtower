@@ -27,18 +27,17 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "helen-oy",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 593,
     "timeDay": 859,
     "timeWeek": 718,
     "timeMonth": 632,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-10-03": 13,
       "2023-09-13": 17
     }
   },
@@ -85,9 +84,9 @@
     "url": "https://poliisi.fi/tee-rikosilmoitus",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "western-uusimaa-police-department",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +95,9 @@
     "timeWeek": 1100,
     "timeMonth": 1133,
     "timeYear": 1113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Helsinki Regional Transport Authority",
@@ -104,11 +105,11 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
     "status": "up",
-    "uptime": "72.23%",
+    "uptime": "72.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.04%",
-    "uptimeYear": "72.23%",
+    "uptimeYear": "72.39%",
     "time": 1328,
     "timeDay": 1368,
     "timeWeek": 1071,
