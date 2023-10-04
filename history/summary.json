@@ -75,7 +75,7 @@
     "time": 2630,
     "timeDay": 3157,
     "timeWeek": 2804,
-    "timeMonth": 2705,
+    "timeMonth": 2734,
     "timeYear": 2630,
     "dailyMinutesDown": {}
   },
@@ -104,9 +104,9 @@
     "url": "https://www.hsl.fi/",
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "helsinki-regional-transport-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "72.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.04%",
     "uptimeYear": "72.48%",
@@ -116,6 +116,7 @@
     "timeMonth": 1456,
     "timeYear": 1322,
     "dailyMinutesDown": {
+      "2023-10-04": 0,
       "2023-09-21": 550,
       "2023-09-20": 1440,
       "2023-09-19": 1058,
